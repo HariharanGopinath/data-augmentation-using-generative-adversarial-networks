@@ -16,7 +16,8 @@ import sys
 import os
 from imageio import imread
 
-input_dir = "C:/Users/moose\OneDrive\Documents\GitHub\Data-Augmentation-Using-Generative-Adversarial-Networks\Handwritten Digits Generator With a GAN\input"
+#Arens
+input_dir = "C:/Users/moose/OneDrive/Documents/GitHub/input"
 print(os.listdir(input_dir))
 
 
