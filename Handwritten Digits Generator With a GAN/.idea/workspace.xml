@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -86,9 +86,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603195177927" />
-    <state x="25" y="152" key="SettingsEditor" timestamp="1603099077380">
+    <state x="25" y="152" key="SettingsEditor" timestamp="1603354517677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="25" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603099077380" />
+    <state x="25" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603354517677" />
   </component>
 </project>
