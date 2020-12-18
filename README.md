@@ -2,12 +2,11 @@
 
 This repository is for the project "Data Augmentation Using Generative Adversarial Networks" from the course Deep Machine Learning (SSY340) at the Chalmers University of Technology.
 
-## Dependecies
+## Installation Guide
 To install all the dependencies, please run the following command below:
 
 `pip install -r requirements.txt`
 
-## Installation Guide
 *To be added*
 
 ## Execution Guide
