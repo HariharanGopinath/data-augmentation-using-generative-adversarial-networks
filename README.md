@@ -3,11 +3,14 @@
 This repository is for the project "Data Augmentation Using Generative Adversarial Networks" from the course Deep Machine Learning (SSY340) at the Chalmers University of Technology.
 
 ## Installation Guide
-To install all the dependencies, please run the following command below:
+To install all the dependencies, perform the following operations:
+1. Create a Conda environment:
+
+`conda create --name cgan tensorflow-gpu`
+
+2. Install all dependecies using pip:
 
 `pip install -r requirements.txt`
-
-*To be added*
 
 ## Execution Guide
 *To be added*
