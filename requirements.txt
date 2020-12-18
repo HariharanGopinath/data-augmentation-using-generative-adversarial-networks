@@ -1,0 +1,12 @@
+pathlib
+matplotlib
+Pillow
+numpy
+scipy
+ipython 
+jupyter 
+pandas 
+sympy 
+nose
+imageio
+Keras
