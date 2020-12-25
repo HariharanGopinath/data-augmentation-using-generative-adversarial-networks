@@ -1,7 +1,7 @@
+numpy==1.18.5
+matplotlib==3.3.3
 pathlib
-matplotlib
 Pillow
-numpy
 scipy
 ipython 
 jupyter 
