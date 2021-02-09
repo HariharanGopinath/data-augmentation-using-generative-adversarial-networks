@@ -2,23 +2,33 @@
 
 This repository is for the project "Data Augmentation Using Generative Adversarial Networks" from the course Deep Machine Learning (SSY340) at the Chalmers University of Technology.
 
+## Dependencies
+* Tensorflow
+
 ## Installation Guide
-To install all the dependencies, perform the following operations:
-1. Create a Conda environment:
+To install the anaconda environment, navigate to the repository folder, and run the following command in the command prompt:
 
-`conda create --name cgan tensorflow-gpu`
-
-2. Install all dependecies using pip:
-
-`pip install -r requirements.txt`
+`conda env create -f environment.yml`
 
 ## Execution Guide
-*To be added*
+1. To activate the Conda environment, please run the following command in the command prompt:
+
+`conda activate data_augment`
+
+2. *To be added*
+
+3. To deactivate the Conda environment, please run the following command in the command prompt:
+
+`conda deactivate`
+
+## Clean-up Guide
+To remove the anaconda environment, navigate to the repository folder, and run the following command in the command prompt:
+
+`conda remove --name data_augment --all`
 
 ## Authors
 * Aren Moosakhanian
 * Sourab Bapu Sridhar
-
 
 ## References
 *To be added*
