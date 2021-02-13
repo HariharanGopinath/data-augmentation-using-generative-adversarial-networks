@@ -2,8 +2,9 @@
 
 This repository is for the project "Data Augmentation Using Generative Adversarial Networks" from the course Deep Machine Learning (SSY340) at the Chalmers University of Technology.
 
-## Dependencies
-* Tensorflow
+## Requirements
+The code is based on Python3 (>=3.7). There are a few dependencies to run the code. The major libraries are listed as follows:
+* Tensorflow (>=2.3.0)
 
 ## Installation Guide
 To install the anaconda environment, navigate to the repository folder, and run the following command in the command prompt:
